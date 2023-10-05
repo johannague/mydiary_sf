@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Hours__c</fullName>
+    <externalId>false</externalId>
+    <label>Hour</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>08:00 a 09:00 am</fullName>
+                <default>true</default>
+                <label>08:00 a 09:00 am</label>
+            </value>
+            <value>
+                <fullName>09:00 a 10:00 am</fullName>
+                <default>false</default>
+                <label>09:00 a 10:00 am</label>
+            </value>
+            <value>
+                <fullName>10:00 a 11:00 am</fullName>
+                <default>false</default>
+                <label>10:00 a 11:00 am</label>
+            </value>
+            <value>
+                <fullName>11:00 a 12:00 am</fullName>
+                <default>false</default>
+                <label>11:00 a 12:00 am</label>
+            </value>
+            <value>
+                <fullName>12:00 a 01:00 pm</fullName>
+                <default>false</default>
+                <label>12:00 a 01:00 pm</label>
+            </value>
+            <value>
+                <fullName>01:00 a 02:00 pm</fullName>
+                <default>false</default>
+                <label>01:00 a 02:00 pm</label>
+            </value>
+            <value>
+                <fullName>02:00 a 03:00 pm</fullName>
+                <default>false</default>
+                <label>02:00 a 03:00 pm</label>
+            </value>
+            <value>
+                <fullName>03:00 a 04:00 pm</fullName>
+                <default>false</default>
+                <label>03:00 a 04:00 pm</label>
+            </value>
+            <value>
+                <fullName>04:00 a 05:00 pm</fullName>
+                <default>false</default>
+                <label>04:00 a 05:00 pm</label>
+            </value>
+            <value>
+                <fullName>05:00 a 06:00 pm</fullName>
+                <default>false</default>
+                <label>05:00 a 06:00 pm</label>
+            </value>
+            <value>
+                <fullName>06:00 a 07:00 pm</fullName>
+                <default>false</default>
+                <label>06:00 a 07:00 pm</label>
+            </value>
+            <value>
+                <fullName>07:00 a 08:00 pm</fullName>
+                <default>false</default>
+                <label>07:00 a 08:00 pm</label>
+            </value>
+            <value>
+                <fullName>08:00 a 09:00 pm</fullName>
+                <default>false</default>
+                <label>08:00 a 09:00 pm</label>
+            </value>
+            <value>
+                <fullName>09:00 a 10:00 pm</fullName>
+                <default>false</default>
+                <label>09:00 a 10:00 pm</label>
+            </value>
+            <value>
+                <fullName>10:00 a 11:00 pm</fullName>
+                <default>false</default>
+                <label>10:00 a 11:00 pm</label>
+            </value>
+            <value>
+                <fullName>11:00 a 12:00 pm</fullName>
+                <default>false</default>
+                <label>11:00 a 12:00 pm</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>
